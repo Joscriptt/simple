@@ -16,7 +16,7 @@ const demoData: GalleryProps = {
     {
       id: "1",
       testimonies:
-        "Bloom has transformed the way I think about my life. Highly recommend!",
+        "zen instructions has transformed the way I think about my life. Highly recommend!",
       name: "Makayla Johnson",
       profilePic:
         "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80",
@@ -25,7 +25,7 @@ const demoData: GalleryProps = {
     {
       id: "2",
       testimonies:
-        "Bloom has completely transformed my daily routine. The guided meditations are exactly what I need to start my mornings with clarity and focus.",
+        "Zen teachings has completely transformed my daily routine. The guided meditations are exactly what I need to start my mornings with clarity and focus.",
       name: "Christina Matthews",
       profilePic:
         "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80",
@@ -34,7 +34,7 @@ const demoData: GalleryProps = {
     {
       id: "3",
       testimonies:
-        "I've tried many meditation apps, but Bloom stands out with its personalized programs and calming design. It feels like it was made just for me.",
+        "I've tried many meditation apps, but zen's stands out with its personalized programs and calming design. It feels like it was made just for me.",
       name: "Sofia Marquez",
       // profilePic:
       //   "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80",
@@ -43,7 +43,7 @@ const demoData: GalleryProps = {
     {
       id: "5",
       testimonies:
-        "As a beginners in meditation, Bloom made it so easy to get started. The progress tracking keeps me motivated.",
+        "As a beginners in meditation, zen ways made it so easy to get started. The progress tracking keeps me motivated.",
       name: "Emily Chen",
       profilePic:
         "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80",
@@ -61,7 +61,7 @@ const demoData: GalleryProps = {
     {
       id: "7",
       testimonies:
-        "What sets Bloom apart is the community feature. Connecting with others on the same journey is so inspiring.",
+        "What sets zen apart is the community feature. Connecting with others on the same journey is so inspiring.",
       name: "Sarah Thompson",
       profilePic:
         "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80",
