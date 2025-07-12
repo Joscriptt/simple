@@ -103,7 +103,7 @@ export default function Footer() {
       >
         <div className="mt-24">
           <h1 className="text-[clamp(2rem,2rem+21vw,20rem)] text-[#3D0000] text-center font-mona font-extrabold">
-            Joscript
+            zen
           </h1>
           {/* <h1 className="text-[calc(8rem+5vw)] text-[#3D0000] text-center font-mona font-extrabold">
             bloom
