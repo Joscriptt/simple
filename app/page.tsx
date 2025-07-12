@@ -342,7 +342,7 @@ export default function Home() {
       <section id="blog" className="max-w-6xl mx-auto mt-72 ">
         <div className="md:flex justify-between my-10 max-w-6xl mx-auto gap-x-4">
           <h1 className="text-2xl md:text-5xl md:max-w-4xl text-center md:text-left font-display text-[#3D0000]">
-            The Joscript Journal
+            The zen Journal
           </h1>
           <p className="md:max-w-lg mt-2 md:mt-0 text-center md:text-left">
             Explore expert advice, mindfulness techniques, and guided exercises
