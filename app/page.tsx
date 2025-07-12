@@ -325,7 +325,7 @@ export default function Home() {
               </h1>
               <p className="lg:text-xl text-[#3D0000] mb-8 mx-auto xl:text-sm max-w-sm">
                 Just a few moments of mindfulness can transform your day. Let
-                Bloom guide you to relax, recharge, and thrive effortlessly.
+                Zen program guide you to relax, recharge, and thrive effortlessly.
               </p>
             </div>
             <div className="" />
