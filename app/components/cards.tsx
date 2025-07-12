@@ -7,13 +7,13 @@ const items = [
   {
     title: "Choose How You Feel",
     description:
-      "Start by selecting your current mood—calm, stressed, or in need of focus. Bloom curates the perfect session for you.",
+      "Start by selecting your current mood—calm, stressed, or in need of focus. zen curates the perfect session for you.",
     mockup: "/assets/mockup.png",
   },
   {
     title: "Listen, Breathe, and Unwind",
     description:
-      "Whether it's a guided meditation, soothing soundscape, or deep breathing session, Bloom helps you find your balance.",
+      "Whether it's a guided meditation, soothing soundscape, or deep breathing session, zen helps you find your balance.",
     mockup: "/assets/mockup1.png",
   },
   {
