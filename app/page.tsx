@@ -119,7 +119,7 @@ export default function Home() {
                 {/* Left image */}
                 <div className="absolute left-1/2 top-1/2 -translate-x-[90%] -translate-y-1/2 z-10 rotate-[-12deg] shadow-xl rounded-2xl overflow-hidden transition-transform duration-300 ease-in-out group-hover:rotate-[-18deg]">
                   <Image
-                    src="/assets/room1.jpeg"
+                    src="/assets/room4.jpg"
                     alt="Beach meditation"
                     width={140}
                     height={180}
@@ -139,7 +139,7 @@ export default function Home() {
                 {/* Right image */}
                 <div className="absolute left-1/2 top-[54%] -translate-x-[12%] -translate-y-1/2 z-40 rotate-[16deg] shadow-xl rounded-2xl overflow-hidden transition-transform duration-300 ease-in-out group-hover:rotate-[18deg]">
                   <Image
-                    src="/assets/room3.jpg"
+                    src="/assets/room4.jpg"
                     alt="Studio meditation"
                     width={140}
                     height={180}
