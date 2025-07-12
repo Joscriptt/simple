@@ -10,7 +10,7 @@ function Blog() {
         <div className="max-w-7xl mx-auto">
           <div className="mt-44">
             <h1 className="text-5xl lg:text-7xl text-center text-[#3D0000]">
-              The Bloom Journal
+              The zen Journal
             </h1>
             <p className=" max-w-md mx-auto mt-8 text-md text-[#7D6161]">
               Discover expert insights, mindful tips, and guided practices to
