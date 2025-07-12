@@ -153,7 +153,7 @@ export default function Footer() {
           </div>
         </section>
         <div className="flex md:justify-between md:flex-row flex-col items-center max-w-4xl mx-auto mt-44 pb-11">
-          <p>{new Date().getFullYear() + "  - Joscript @Joscript.com"}</p>
+          <p>{new Date().getFullYear() + "  - zen@zh.com"}</p>
 
           <ul className="flex items-center gap-x-3.5 text-xs">
             <li>Privacy Policy</li>
