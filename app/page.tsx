@@ -20,9 +20,9 @@ export default function Home() {
 
   const faq: I = [
     {
-      title: "Is Joscript completely free?",
+      title: "Is zen service completely free?",
       answer:
-        "Yes, Joscript provides a free version with access to guided meditations, breathwork exercises, and mood tracking. For additional content and personalized features, you can upgrade to Joscript+.",
+        "Yes, zen provides a free version with access to guided meditations, breathwork exercises, and mood tracking. For additional content and personalized features, you can upgrade to Joscript+.",
     },
     {
       title: "Do I need prior meditation experience?",
@@ -45,15 +45,11 @@ export default function Home() {
         "You can manage or cancel your Joscript+ subscription anytime through your App Store or Google Play account settings.",
     },
     {
-      title: "Can I use Joscript without an internet connection?",
+      title: "Can I use zen service without an internet connection?",
       answer:
         "Absolutely! You can download sessions to access them offline, making it convenient for travel or moments when you need peace without distractions.",
     },
-    {
-      title: "How can I get this Framer template?",
-      answer:
-        "This template is available for free. Simply click the 'Get Template' button at the bottom right corner and customize it to suit your needs.",
-    },
+   
   ];
 
   const toggleIndex = (index: number) => {
